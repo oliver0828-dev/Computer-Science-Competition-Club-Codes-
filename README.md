@@ -1,4 +1,4 @@
-# 🏆 Computer Science Competition Club Codes
+# DIS Computer Science Competition Club Codes
 
 This repository contains code from the **Computer Science Competition Club**, where we prepare for programming contests like:
 
