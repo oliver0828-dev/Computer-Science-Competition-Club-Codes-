@@ -1,2 +1,2 @@
-# Computer-Science-Competition-Club-Codes-
+# DIS-CSCC-SOURCECODE
 그냥 모두 JIAMEN 하세요
